@@ -5,7 +5,7 @@
   "authors": [
     "CodeDance <chris.dance@papercut.com>"
   ],
-  "description": "A light-weight jQuery 'dirty forms' Plugin - it monitors html forms and alerts users to unsaved changes if they attempt to close the browser or navigate away from the page. (Are you sure?)",
+  "description": "A light-weight jQuery 'dirty forms' Plugin",
   "main": "jquery.are-you-sure.js",
   "keywords": [
     "form",
